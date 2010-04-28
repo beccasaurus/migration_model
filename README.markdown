@@ -29,11 +29,6 @@ How to install?
 
     $ sudo gem install migration_model
 
-or if you still use plugins for some reason ...
-
-    $ ./script/plugin install git://github.com/remi/migration_model.git
-
-
 Usage
 -----
 
